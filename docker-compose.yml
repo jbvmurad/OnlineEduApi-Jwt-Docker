@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  # OnlineEdu API to sql server
+  onlineedu-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: onlineedu-api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
+      # Windows host to sql server connection 
+      - ConnectionStrings__SqlConnection=Server=host.docker.internal\\SQLEXPRESS;Database=Edu;Integrated Security=true;TrustServerCertificate=true;Encrypt=false;ConnectRetryCount=3;ConnectRetryInterval=10;Connection Timeout=30;
+    ports:
+      - "5000:8080"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - onlineedu-network
+
+volumes: {}
+  
+
+networks:
+  onlineedu-network:
+    driver: bridge

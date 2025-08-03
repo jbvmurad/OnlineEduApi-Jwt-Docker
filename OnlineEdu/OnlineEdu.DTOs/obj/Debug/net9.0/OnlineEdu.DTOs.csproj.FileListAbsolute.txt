@@ -1,0 +1,15 @@
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\bin\Debug\net9.0\OnlineEdu.DTOs.deps.json
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\bin\Debug\net9.0\OnlineEdu.DTOs.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\bin\Debug\net9.0\OnlineEdu.DTOs.pdb
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\bin\Debug\net9.0\OnlineEdu.Entity.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\bin\Debug\net9.0\OnlineEdu.Entity.pdb
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEd.A3660327.Up2Date
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\refint\OnlineEdu.DTOs.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\OnlineEdu.DTOs.pdb
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.DTOs\obj\Debug\net9.0\ref\OnlineEdu.DTOs.dll

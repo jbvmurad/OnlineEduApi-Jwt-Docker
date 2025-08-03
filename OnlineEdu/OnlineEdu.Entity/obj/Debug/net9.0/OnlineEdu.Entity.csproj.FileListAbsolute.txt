@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\bin\Debug\net9.0\OnlineEdu.Entity.deps.json
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\bin\Debug\net9.0\OnlineEdu.Entity.runtimeconfig.json
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\bin\Debug\net9.0\OnlineEdu.Entity.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\bin\Debug\net9.0\OnlineEdu.Entity.pdb
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\refint\OnlineEdu.Entity.dll
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.pdb
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\OnlineEdu.Entity.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Online Edu\OnlineEdu\OnlineEdu.Entity\obj\Debug\net9.0\ref\OnlineEdu.Entity.dll
