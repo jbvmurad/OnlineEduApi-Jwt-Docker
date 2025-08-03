@@ -2,9 +2,7 @@
 
 Bu layihə ASP.NET Core Web API istifadə edilərək hazırlanmışdır və JWT (JSON Web Token) ilə autentifikasiya mexanizmini özündə birləşdirir. Layihədə Online kurs sistemi üçün əsas CRUD əməliyyatları (müştəri, Kurs, Kategoriya və istifadəçilərlə bağlı) yer alır və yalnız doğrulanmış istifadəçilər bu əməliyyatları icra edə bilər.
 
----
 
-## ✨ Texnologiyalar
 
 ## ✨ Texnologiyalar
 
