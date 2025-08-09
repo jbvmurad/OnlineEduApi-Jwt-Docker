@@ -53,7 +53,6 @@ namespace OnlineEdu.Data.Concrete
                 var token = tokenHandler.CreateToken(tokenDescriptor);
                 var tokenString = tokenHandler.WriteToken(token);
 
-                // Debug için
                 Console.WriteLine($"Generated Token: {tokenString}");
                 Console.WriteLine($"Token Parts Count: {tokenString.Split('.').Length}");
 
