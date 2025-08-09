@@ -26,7 +26,7 @@ namespace OnlineEdu.Data.Concrete
             try
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var key = Encoding.UTF8.GetBytes(_jwtSettings.SecretKey); // UTF8 kullan
+                var key = Encoding.UTF8.GetBytes(_jwtSettings.SecretKey); 
 
                 var claims = new List<Claim>
                 {
